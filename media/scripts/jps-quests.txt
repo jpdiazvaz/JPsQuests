@@ -1,0 +1,17 @@
+module JPsQuests
+{
+    imports
+	{
+		Base
+	}
+
+    item QuestTracker
+    {
+        DisplayCategory = Cartography,
+	    Weight = 0.1,
+        Type = Normal,
+        DisplayName = Quest Tracker,
+        Icon = Paper,
+        WorldStaticModel = SheetOfPaper,
+    }
+}

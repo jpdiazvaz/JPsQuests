@@ -1,0 +1,1 @@
+JPsQuests:init()
