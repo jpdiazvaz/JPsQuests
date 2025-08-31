@@ -1,10 +1,10 @@
-##  📖 **JP's Quests**: Randomized quests for Project Zomboid.
+##  📖 **JP's Quests**: Randomized quests for Project Zomboid
 
 JP's Quests intends to make the survival experience a bit more interesting by rolling for randomized time-sensitive quests throughout your playthrough.
 
 ![JP's Quests screenshot](https://github.com/jpdiazvaz/JPsQuests/blob/main/assets/mod_showcase.jpg?raw=true)
 
-### 🤔 Available quests
+### 🤔 Overview
 
 Rolling for quests will happen automatically. 
 
@@ -12,6 +12,12 @@ Rolling for quests will happen automatically.
 1. Once a quest is rolled, you'll see a message pop up on top of your character detailing your quest.
 1. This message will update every 10 in-game minutes with your progress.
 1. Complete your quest and earn experience on a random skill. Fail, and your character will be killed.
+
+### 🔪 Available quests
+
+1. **Homesick**: Get to one of the randomized cities before time runs out.
+1. **Pacifist**: Survive without killing any zomboids.
+1. **Berserk**: Kill a certain number of zomboids before the timer ends.
 
 ### 🏃 Running the mod from the workshop
 
@@ -29,6 +35,7 @@ Rolling for quests will happen automatically.
 
 1. More quests.
 1. UI elements to show quests rolling.
+1. UI elements to show quest objectives (E.g. An arrow pointing to target location).
 1. Global settings (quest time, chance for rolling a quest, how often they roll, Etc.).
 1. Per-quest settings. Some quests could give different perks/punishments upon completion.
 1. A storyline.
